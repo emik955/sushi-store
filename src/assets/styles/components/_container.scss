@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  max-width: 1400px;
+  padding: 0 50px;
+  margin: 0 auto;
+
+  &__min {
+    width: 1000px;
+    padding: 0 1.875rem;
+    margin: 0 auto;
+  }
+
+}
